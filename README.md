@@ -3,5 +3,5 @@ Overview:
 
 1. [retail analytics](https://linkmehere.com)
 2. [business intelligence](https://github.com/Ztburge/ZacharyBurge/blob/main/Zachary_Python_3100.ipynb)
-3. [data science].(https://github.com/Ztburge/ZacharyBurge/blob/main/Another_copy_of_commodity_clusters_%2B_plotly.ipynb)
-4. 
+3. [data science]
+   
